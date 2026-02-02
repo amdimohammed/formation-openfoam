@@ -75,15 +75,15 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-white/70">
                 <Mail size={16} />
-                <span>formation@openfoam.fr</span>
+                <span>amdi.mohammed@gmail.com</span>
               </li>
               <li className="flex items-center gap-2 text-white/70">
                 <Phone size={16} />
-                <span>+33 (0)1 23 45 67 89</span>
+                <span>+33 (0)6 46 77 62 72</span>
               </li>
               <li className="flex items-start gap-2 text-white/70">
                 <MapPin size={16} className="mt-1" />
-                <span>123 Avenue des Ingénieurs<br />75000 Paris, France</span>
+                <span>123 Avenue des Ingénieurs<br />59000 Lille, France</span>
               </li>
             </ul>
           </div>
